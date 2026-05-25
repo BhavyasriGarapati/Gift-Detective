@@ -1,0 +1,6 @@
+{
+  "name": "Gift Detective",
+  "description": "An AI-powered gift finding assistant that searches the web in real-time to find perfect, available gifts tailored to age, hobbies, and preferences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
